@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">KladdieApp</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email">Email</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_frgt_password">Forgot Your Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="dont_have_an_acc">Don\'t Have An Account?</string>
+    <string name="register">Register</string>
+
+    <string name="errmsg_fullname">Please enter your Full Name</string>
+    <string name="errmsg_email">Please enter your Email Address</string>
+    <string name="errmsg_mobilenumber">Please enter your Mobile Number</string>
+    <string name="errmsg_location">Please enter your Location</string>
+    <string name="errmsg_password">Please enter a Password</string>
+    <string name="errmsg_confpassword">Please confirm your Password</string>
+    <string name="errmsg_passwordmismatch">Your password does not match</string>
+    <string name="errmsg_agreeterms">Please agree to our Terms and Conditions</string>
+
+    <string name="KW">Kladdie Worldwide</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking "Sign Up" you agree all our Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+
+    <string name="shirts">Shirts</string>
+    <string name="pants">Pants</string>
+    <string name="jacket">Jackets</string>
+    <string name="shoe">Shoes</string>
+
+
+</resources>
